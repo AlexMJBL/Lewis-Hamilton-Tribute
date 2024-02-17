@@ -19,11 +19,13 @@ p{
 .img-div{
 display:flex;
 justify-content:center;
+
 }
 figure {
   background-color:white;
   padding:20px;
-  width:60%;
+  width:55%;
+  
 
 }
 figcaption{
@@ -35,6 +37,9 @@ img{
   display: block;
   width: 75%;
   margin: auto;
+  padding-top: 25px;
+  max-width:100%;
+
 }
 
 .info, .quote{
@@ -59,7 +64,3 @@ li {
   font-size: 22;
   padding: 0 0 25
 }
-
-
-
-
