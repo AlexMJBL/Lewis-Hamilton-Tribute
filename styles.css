@@ -14,25 +14,29 @@ margin: 15 0 0 0;
 }
 
 p{
-  margin: 5 0 0 0;
+  margin: 10 0 0 0;
+}
+.img-div{
+display:flex;
+justify-content:center;
 }
 figure {
   background-color:white;
-  width: 85%;
-  margin: auto;
-  padding: 25 0 10;
+  padding:20px;
+  width:60%;
+
+}
+figcaption{
+  padding:20px 0 0 0;
+  font-size: 18px;
 }
 
 img{
   display: block;
   width: 75%;
   margin: auto;
-  padding: 10 0 10;
 }
 
-figcaption{
-  font-size: 18px;
-}
 .info, .quote{
   max-width: 55%;
   margin: auto;
